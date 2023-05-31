@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _preview: {fileID: 21300000, guid: c0c3ae5b7c8a5f042a7e60a7b27f9918, type: 3}
   _lable: Plate
-  _prefab: {fileID: 919132149155446097, guid: 517b08fda00d19043bbf36ab5921b222, type: 3}
+  _prefab: {fileID: 7639721203972691146, guid: 9261712b11a338445a56d7d245f003a4, type: 3}
